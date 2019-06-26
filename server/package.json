@@ -1,0 +1,22 @@
+{
+  "name": "daily-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-pdf/renderer": "^1.6.2",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.8",
+    "@types/react": "^16.8.20",
+    "@types/react-dom": "^16.8.4",
+    "typescript": "^3.5.2"
+  }
+}
